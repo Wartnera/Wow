@@ -1,0 +1,39 @@
+VER 3 0100000000000007 "aszendenz" "SPELL_FIRE_ELEMENTALDEVASTATION"
+#showtooltip
+/cast Aszendenz
+/cast Lebensblut(Rang 9)
+/cast Gunst des Geistwandlers
+/cast Kochendes Blut(Volksfähigkeit)
+END
+VER 3 0100000000000010 "er" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/wirken [@mouseover,exists] Springflut; Springflut
+END
+VER 3 0100000000000015 "hw" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists] Healing Wave; Healing Wave
+END
+VER 3 0100000000000018 "k" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help] Kettenheilung; Kettenheilung
+END
+VER 3 0100000000000013 "läut" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/wirken [@mouseover, exists] Geistreinigung; Geistreinigung
+END
+VER 3 0100000000000008 "m" "INV_MISC_QUESTIONMARK"
+/use Mahlen
+/use Taladororchidee [exists]; Frostwurz [exists]; Nagrandpfeilkelchen [exists];Gorgrondfliegenfalle [exists]; Sternenblume [exists]; Feuerwurz [exists]
+END
+VER 3 0100000000000014 "rt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help] Riptide; Riptide
+END
+VER 3 010000000000000E "w" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/wirken [@mouseover,exists] Welle der Heilung; Welle der Heilung
+END
+VER 3 010000000000000F "we" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/wirken [@mouseover,exists] Heilende Woge; Heilende Woge
+END

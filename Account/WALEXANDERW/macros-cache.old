@@ -1,0 +1,34 @@
+VER 3 0000000000000030 "Agony" "SPELL_SHADOW_CURSEOFSARGERAS"
+#showtooltip
+/cast [@mouseover, exists, harm] Agony; Agony
+END
+VER 3 0000000000000035 "beispielHealAtta" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help] [help] Erneuerung(Rang 3); [harm,nodead] Schattenwort; Schmerz(Rang 3); [@player] Erneuerung(Rang 3)
+END
+VER 3 0000000000000012 "f" "SPELL_SHADOW_POSSESSION"
+#showtooltip
+/cast [@mouseover, exists] Furcht; Furcht
+                                
+END
+VER 3 0000000000000033 "fokus" "INV_MISC_QUESTIONMARK"
+/clearfocus
+/focus [@mouseover,exists], []
+END
+VER 3 0000000000000026 "move" "SPELL_NATURE_SWIFTNESS"
+/petmoveto
+END
+VER 3 0000000000000027 "petattack" "SPELL_SHADOW_ENSLAVEDEMON"
+/petattack 
+END
+VER 3 0000000000000024 "pf" "ACHIEVEMENT_GUILD_RIDELIKETHEWIND"
+/petfollow
+END
+VER 3 000000000000002B "stun" "ABILITY_WARRIOR_TITANSGRIP"
+#showtooltip
+/cast  [pet] Axe Toss(Special Ability)
+END
+VER 3 0000000000000034 "UA" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, harm] Unstable Affliction; Unstable Affliction
+END

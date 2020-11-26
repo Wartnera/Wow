@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "tk/b" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help] [help] Beleben;   [harm,nodead] Tigerklaue; [@player] Beleben
+END

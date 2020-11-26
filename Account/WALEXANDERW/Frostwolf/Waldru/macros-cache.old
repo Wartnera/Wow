@@ -1,0 +1,30 @@
+VER 3 0100000000000002 "ht" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists] Healing Touch; Healing Touch
+END
+VER 3 0100000000000005 "lb" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists] Lifebloom; Lifebloom
+END
+VER 3 0100000000000001 "rg" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists] Regrowth; Regrowth
+END
+VER 3 0100000000000003 "rj" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists] Rejuvenation; Rejuvenation
+END
+VER 3 0100000000000004 "sm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists] Swiftmend; Swiftmend
+END
+VER 3 0100000000000007 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000008 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Wal[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000006 "wg" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists] wild growth; wild growth
+END

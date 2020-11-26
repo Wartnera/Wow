@@ -1,0 +1,25 @@
+
+Postal3DB = {
+	["profileKeys"] = {
+		["Wartschus - Frostwolf"] = "Wartschus - Frostwolf",
+		["Wartsham - Frostwolf"] = "Wartsham - Frostwolf",
+		["Wart - Frostwolf"] = "Wart - Frostwolf",
+	},
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Wartschus|Frostwolf|Horde|6|HUNTER", -- [1]
+				"Wartsham|Frostwolf|Horde|39|SHAMAN", -- [2]
+				"Wart|Frostwolf|Horde|50|WARLOCK", -- [3]
+			},
+		},
+	},
+	["profiles"] = {
+		["Wartschus - Frostwolf"] = {
+		},
+		["Wartsham - Frostwolf"] = {
+		},
+		["Wart - Frostwolf"] = {
+		},
+	},
+}

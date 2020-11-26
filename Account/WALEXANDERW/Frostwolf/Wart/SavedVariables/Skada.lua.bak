@@ -1,0 +1,699 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["auras"] = {
+		},
+		["ccbreaks"] = 0,
+		["time"] = 47,
+		["interrupts"] = 0,
+		["damage"] = 3620,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "WARLOCK",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Corruption"] = {
+						["school"] = 32,
+						["name"] = "Corruption",
+						["active"] = 2,
+						["id"] = 146739,
+						["started"] = 1606424123,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 0,
+					},
+					["Soul Leech"] = {
+						["school"] = 32,
+						["name"] = "Soul Leech",
+						["active"] = 2,
+						["id"] = 108366,
+						["started"] = 1606424058,
+						["auratype"] = "BUFF",
+						["uptime"] = 0,
+					},
+					["Azerite Globules"] = {
+						["school"] = 4,
+						["name"] = "Azerite Globules",
+						["active"] = 1,
+						["id"] = 279956,
+						["started"] = 1606424128,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 60,
+					},
+				},
+				["role"] = "NONE",
+				["time"] = 37,
+				["interrupts"] = 0,
+				["ffdamagedonetargets"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["ffdamagedone"] = 0,
+				["damage"] = 3620,
+				["damagespells"] = {
+					["Corruption"] = {
+						["hitmin"] = 6,
+						["criticalamount"] = 169,
+						["id"] = 146739,
+						["criticalmin"] = 169,
+						["hitamount"] = 1196,
+						["critical"] = 1,
+						["min"] = 6,
+						["criticalmax"] = 169,
+						["hitmax"] = 85,
+						["hit"] = 15,
+						["school"] = 32,
+						["max"] = 169,
+						["totalhits"] = 16,
+						["damage"] = 1365,
+					},
+					["Touch of the Grave"] = {
+						["criticalamount"] = 247,
+						["id"] = 127802,
+						["min"] = 247,
+						["criticalmax"] = 247,
+						["critical"] = 1,
+						["criticalmin"] = 247,
+						["school"] = 32,
+						["max"] = 247,
+						["totalhits"] = 1,
+						["damage"] = 247,
+					},
+					["Malefic Rapture"] = {
+						["hitmin"] = 255,
+						["id"] = 324540,
+						["min"] = 255,
+						["hitamount"] = 255,
+						["hitmax"] = 255,
+						["hit"] = 1,
+						["school"] = 32,
+						["max"] = 255,
+						["totalhits"] = 1,
+						["damage"] = 255,
+					},
+					["Shadow Bolt"] = {
+						["hitmin"] = 191,
+						["id"] = 686,
+						["min"] = 191,
+						["hitamount"] = 1753,
+						["hitmax"] = 199,
+						["hit"] = 9,
+						["school"] = 32,
+						["max"] = 199,
+						["totalhits"] = 9,
+						["damage"] = 1753,
+					},
+				},
+				["dispells"] = 0,
+				["healed"] = {
+					["Player-3703-04D2FFCC"] = {
+						["role"] = "NONE",
+						["name"] = "Wart",
+						["amount"] = 0,
+						["class"] = "WARLOCK",
+						["shielding"] = 0,
+					},
+				},
+				["shielding"] = 0,
+				["id"] = "Player-3703-04D2FFCC",
+				["power"] = {
+				},
+				["damagetakenspells"] = {
+				},
+				["ccbreaks"] = 0,
+				["damagetaken"] = 0,
+				["name"] = "Wart",
+				["overhealing"] = 247,
+				["deathlog"] = {
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 11060,
+						["ts"] = 1606424155.511,
+						["spellid"] = 127802,
+						["srcname"] = "Wart",
+					}, -- [1]
+					["pos"] = 2,
+				},
+				["healingspells"] = {
+					["Touch of the Grave"] = {
+						["shielding"] = 0,
+						["id"] = 127802,
+						["healing"] = 0,
+						["min"] = 0,
+						["name"] = "Touch of the Grave",
+						["max"] = 0,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 247,
+						["hits"] = 1,
+					},
+				},
+				["healing"] = 0,
+				["maxhp"] = 11060,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Raider's Training Dummy"] = {
+				["players"] = {
+					["Wart"] = {
+						["taken"] = 3620,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 3620,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["shielding"] = 0,
+		["ffdamagedone"] = 0,
+		["healing"] = 0,
+		["dispells"] = 0,
+		["power"] = {
+		},
+		["overhealing"] = 247,
+		["mobtaken"] = 3620,
+		["name"] = "Total",
+		["starttime"] = 1606423972,
+		["damagetaken"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1606423972,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["auras"] = {
+			},
+			["ccbreaks"] = 0,
+			["time"] = 22,
+			["interrupts"] = 0,
+			["endtime"] = 1606424163,
+			["starttime"] = 1606424141,
+			["damage"] = 2508,
+			["players"] = {
+				{
+					["last"] = 1606424162,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Raider's Training Dummy"] = 2508,
+					},
+					["auras"] = {
+						["Corruption"] = {
+							["school"] = 32,
+							["name"] = "Corruption",
+							["active"] = 0,
+							["id"] = 146739,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 20,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 21,
+					["interrupts"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 2508,
+					["damagespells"] = {
+						["Corruption"] = {
+							["hitmin"] = 6,
+							["criticalamount"] = 169,
+							["id"] = 146739,
+							["criticalmin"] = 169,
+							["hitamount"] = 856,
+							["critical"] = 1,
+							["min"] = 6,
+							["criticalmax"] = 169,
+							["hitmax"] = 85,
+							["hit"] = 11,
+							["school"] = 32,
+							["max"] = 169,
+							["totalhits"] = 12,
+							["damage"] = 1025,
+						},
+						["Touch of the Grave"] = {
+							["criticalamount"] = 247,
+							["id"] = 127802,
+							["min"] = 247,
+							["criticalmax"] = 247,
+							["critical"] = 1,
+							["criticalmin"] = 247,
+							["school"] = 32,
+							["max"] = 247,
+							["totalhits"] = 1,
+							["damage"] = 247,
+						},
+						["Malefic Rapture"] = {
+							["hitmin"] = 255,
+							["id"] = 324540,
+							["min"] = 255,
+							["hitamount"] = 255,
+							["hitmax"] = 255,
+							["hit"] = 1,
+							["school"] = 32,
+							["max"] = 255,
+							["totalhits"] = 1,
+							["damage"] = 255,
+						},
+						["Shadow Bolt"] = {
+							["hitmin"] = 194,
+							["id"] = 686,
+							["min"] = 194,
+							["hitamount"] = 981,
+							["hitmax"] = 199,
+							["hit"] = 5,
+							["school"] = 32,
+							["max"] = 199,
+							["totalhits"] = 5,
+							["damage"] = 981,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["healed"] = {
+						["Player-3703-04D2FFCC"] = {
+							["role"] = "NONE",
+							["name"] = "Wart",
+							["amount"] = 0,
+							["class"] = "WARLOCK",
+							["shielding"] = 0,
+						},
+					},
+					["shielding"] = 0,
+					["id"] = "Player-3703-04D2FFCC",
+					["first"] = 1606424141,
+					["dispells"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["ccbreaks"] = 0,
+					["name"] = "Wart",
+					["damagetaken"] = 0,
+					["overhealing"] = 247,
+					["healingspells"] = {
+						["Touch of the Grave"] = {
+							["shielding"] = 0,
+							["id"] = 127802,
+							["healing"] = 0,
+							["min"] = 0,
+							["name"] = "Touch of the Grave",
+							["max"] = 0,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 247,
+							["hits"] = 1,
+						},
+					},
+					["healing"] = 0,
+					["maxhp"] = 11060,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Raider's Training Dummy"] = {
+					["players"] = {
+						["Wart"] = {
+							["taken"] = 2508,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 2508,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["dispells"] = 0,
+			["power"] = {
+			},
+			["overhealing"] = 247,
+			["mobtaken"] = 2508,
+			["name"] = "Raider's Training Dummy (4)",
+			["mobname"] = "Raider's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1606424141,
+			["mobdone"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["auras"] = {
+			},
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["endtime"] = 1606424131,
+			["starttime"] = 1606424123,
+			["damage"] = 340,
+			["players"] = {
+				{
+					["last"] = 1606424130,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Raider's Training Dummy"] = 340,
+					},
+					["auras"] = {
+						["Corruption"] = {
+							["school"] = 32,
+							["name"] = "Corruption",
+							["active"] = 0,
+							["id"] = 146739,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+						["Azerite Globules"] = {
+							["school"] = 4,
+							["name"] = "Azerite Globules",
+							["active"] = 0,
+							["id"] = 279956,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 7,
+					["interrupts"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 340,
+					["damagespells"] = {
+						["Corruption"] = {
+							["hitmin"] = 85,
+							["id"] = 146739,
+							["min"] = 85,
+							["hitamount"] = 340,
+							["hitmax"] = 85,
+							["hit"] = 4,
+							["school"] = 32,
+							["max"] = 85,
+							["totalhits"] = 4,
+							["damage"] = 340,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-3703-04D2FFCC",
+					["first"] = 1606424123,
+					["dispells"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["ccbreaks"] = 0,
+					["name"] = "Wart",
+					["damagetaken"] = 0,
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["maxhp"] = 11060,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Raider's Training Dummy"] = {
+					["players"] = {
+						["Wart"] = {
+							["taken"] = 340,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 340,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["dispells"] = 0,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["mobtaken"] = 340,
+			["name"] = "Raider's Training Dummy (3)",
+			["mobname"] = "Raider's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1606424123,
+			["mobdone"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["auras"] = {
+			},
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1606424120,
+			["starttime"] = 1606424114,
+			["damage"] = 196,
+			["players"] = {
+				{
+					["last"] = 1606424120,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Raider's Training Dummy"] = 196,
+					},
+					["auras"] = {
+						["Soul Leech"] = {
+							["school"] = 32,
+							["name"] = "Soul Leech",
+							["active"] = 0,
+							["id"] = 108366,
+							["auratype"] = "BUFF",
+							["uptime"] = 5,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 5,
+					["interrupts"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 196,
+					["damagespells"] = {
+						["Shadow Bolt"] = {
+							["hitmin"] = 196,
+							["id"] = 686,
+							["min"] = 196,
+							["hitamount"] = 196,
+							["hitmax"] = 196,
+							["hit"] = 1,
+							["school"] = 32,
+							["max"] = 196,
+							["totalhits"] = 1,
+							["damage"] = 196,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-3703-04D2FFCC",
+					["first"] = 1606424115,
+					["dispells"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["ccbreaks"] = 0,
+					["name"] = "Wart",
+					["damagetaken"] = 0,
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["maxhp"] = 11060,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Raider's Training Dummy"] = {
+					["players"] = {
+						["Wart"] = {
+							["taken"] = 196,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 196,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["dispells"] = 0,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["mobtaken"] = 196,
+			["name"] = "Raider's Training Dummy (2)",
+			["mobname"] = "Raider's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1606424114,
+			["mobdone"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["auras"] = {
+			},
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1606424068,
+			["starttime"] = 1606424057,
+			["damage"] = 576,
+			["players"] = {
+				{
+					["last"] = 1606424062,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Raider's Training Dummy"] = 576,
+					},
+					["auras"] = {
+						["Azerite Globules"] = {
+							["school"] = 4,
+							["name"] = "Azerite Globules",
+							["active"] = 0,
+							["id"] = 279956,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+						["Soul Leech"] = {
+							["school"] = 32,
+							["name"] = "Soul Leech",
+							["active"] = 0,
+							["id"] = 108366,
+							["auratype"] = "BUFF",
+							["uptime"] = 10,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 4,
+					["interrupts"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 576,
+					["damagespells"] = {
+						["Shadow Bolt"] = {
+							["hitmin"] = 191,
+							["id"] = 686,
+							["min"] = 191,
+							["hitamount"] = 576,
+							["hitmax"] = 193,
+							["hit"] = 3,
+							["school"] = 32,
+							["max"] = 193,
+							["totalhits"] = 3,
+							["damage"] = 576,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-3703-04D2FFCC",
+					["first"] = 1606424058,
+					["dispells"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["ccbreaks"] = 0,
+					["name"] = "Wart",
+					["damagetaken"] = 0,
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["maxhp"] = 11060,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Raider's Training Dummy"] = {
+					["players"] = {
+						["Wart"] = {
+							["taken"] = 576,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 576,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["dispells"] = 0,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["mobtaken"] = 576,
+			["name"] = "Raider's Training Dummy",
+			["mobname"] = "Raider's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1606424057,
+			["mobdone"] = 0,
+		}, -- [4]
+	},
+}

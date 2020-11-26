@@ -1,0 +1,7 @@
+
+CurrencyTrackerDB = {
+	["Frostwolf"] = {
+		["Wart"] = {
+		},
+	},
+}

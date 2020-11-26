@@ -1,0 +1,26 @@
+VER 3 0100000000000005 "det" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists] Detox; Detox
+END
+VER 3 0100000000000004 "eff" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, help] Effuse; Effuse
+END
+VER 3 0100000000000002 "em" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, help] Enveloping Mist; Enveloping Mist
+END
+VER 3 0100000000000001 "rm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, help] Renewing Mist; Renewing Mist
+END
+VER 3 0100000000000003 "vi" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, help] Vivify; Vivify
+END
+VER 3 0100000000000006 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000007 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Sch[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

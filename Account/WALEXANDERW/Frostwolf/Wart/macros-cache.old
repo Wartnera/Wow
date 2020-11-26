@@ -1,0 +1,41 @@
+VER 3 0100000000000015 "ag" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, harm]  
+END
+VER 3 0100000000000013 "burst" "463286"
+#showtooltip
+/useSea Giant's Tidestone
+/cast Dark Soul: Misery
+END
+VER 3 0100000000000003 "co" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Verderbnis; Verderbnis
+END
+VER 3 0100000000000007 "cor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Corruption; Corruption
+END
+VER 3 0100000000000012 "fu" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists] Fear; Fear
+END
+VER 3 010000000000000A "h" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, harm] Havoc; Havoc
+END
+VER 3 0100000000000005 "h" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Verwüstung; Verwüstung
+END
+VER 3 0100000000000008 "s" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Siphon Life; Siphon Life
+END
+VER 3 0100000000000006 "sl" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Lebensentzug; Lebensentzug
+END
+VER 3 0100000000000014 "ua" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, harm] Affliction instable; Affliction instable
+END

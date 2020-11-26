@@ -1,0 +1,58 @@
+VER 3 010000000000000B "burst" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Berserking(Racial)
+/cast Soul Harvest
+END
+VER 3 010000000000000D "caut" "RACIAL_TROLL_BERSERK"
+#showtooltip
+/cast Magie versengen(Spezialfähigkeit)
+END
+VER 3 0100000000000003 "co" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Verderbnis; Verderbnis
+END
+VER 3 0100000000000007 "cor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Corruption; Corruption
+END
+VER 3 0100000000000001 "doom" "SPELL_SHADOW_AURAOFDARKNESS"
+#showtooltip
+/cast [@mouseover, exists] Verdammnis; Verdammnis
+END
+VER 3 0100000000000012 "fu" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists] Fear; Fear
+END
+VER 3 010000000000000A "h" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, harm] Havoc; Havoc
+END
+VER 3 0100000000000005 "h" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Verwüstung; Verwüstung
+END
+VER 3 0100000000000015 "l" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/wirke [@mouseover,exists] Lebensentzug; Leben
+END
+VER 3 010000000000000C "pass" "INV_MISC_QUESTIONMARK"
+/petpassiv
+END
+VER 3 0100000000000008 "s" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Siphon Life; Siphon Life
+END
+VER 3 010000000000000E "sed" "SPELL_SHADOW_SUMMONSUCCUBUS"
+#showtooltip
+/cast Seduction(Special Ability)
+END
+VER 3 0100000000000006 "sl" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists,harm] Lebensentzug; Lebensentzug
+END
+VER 3 0100000000000013 "VuhDoDCShieldData" "Ability_Repair"
+P1PT1IH1HR1HR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1LR[x][x]0__0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000014 "VuhDoDCShieldNames" "Ability_Repair"
+NTwîRaiBeaLeo[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Wua[x][x]WölDra[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

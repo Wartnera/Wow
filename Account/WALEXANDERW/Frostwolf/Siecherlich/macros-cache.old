@@ -1,0 +1,10 @@
+VER 3 010000000000000D "stun" "SPELL_SHADOW_DEADOFNIGHT"
+#showtooltip
+/cast [pet] smash
+END
+VER 3 010000000000000E "VuhDoDCShieldData" "Ability_Repair"
+P1HR1DH1WM1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1ET0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000F "VuhDoDCShieldNames" "Ability_Repair"
+NPecHotArnMál[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]SieBei[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
