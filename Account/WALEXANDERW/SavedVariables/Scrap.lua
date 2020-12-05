@@ -8,5 +8,5 @@ Scrap_Sets = {
 	["destroy"] = true,
 	["sell"] = true,
 	["icons"] = true,
-	["tutorial"] = 2,
+	["tutorial"] = 5,
 }

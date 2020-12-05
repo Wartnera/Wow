@@ -107,14 +107,21 @@ MADB = {
 					},
 					["orgScale"] = 1,
 				},
-				["MacroFrame"] = {
-					["name"] = "MacroFrame",
-					["pos"] = {
-						"BOTTOMLEFT", -- [1]
+				["ObjectiveTrackerBonusBannerFrame"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
 						"UIParent", -- [2]
-						"BOTTOMLEFT", -- [3]
-						865.7777709960938, -- [4]
-						418.22216796875, -- [5]
+						"TOP", -- [3]
+						0, -- [4]
+						-170, -- [5]
+					},
+					["name"] = "ObjectiveTrackerBonusBannerFrame",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						-9.1552734375e-05, -- [4]
+						-169.999755859375, -- [5]
 					},
 				},
 				["PVEFrame"] = {
@@ -139,21 +146,14 @@ MADB = {
 						447.9999389648438, -- [5]
 					},
 				},
-				["ObjectiveTrackerBonusBannerFrame"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						"TOP", -- [3]
-						0, -- [4]
-						-170, -- [5]
-					},
-					["name"] = "ObjectiveTrackerBonusBannerFrame",
+				["MacroFrame"] = {
+					["name"] = "MacroFrame",
 					["pos"] = {
-						"TOP", -- [1]
+						"BOTTOMLEFT", -- [1]
 						"UIParent", -- [2]
-						"TOP", -- [3]
-						-9.1552734375e-05, -- [4]
-						-169.999755859375, -- [5]
+						"BOTTOMLEFT", -- [3]
+						865.7777709960938, -- [4]
+						418.22216796875, -- [5]
 					},
 				},
 				["QuestFrame"] = {
@@ -180,8 +180,8 @@ MADB = {
 					["orgScale"] = 1,
 				},
 				["EncounterJournal"] = {
-					["name"] = "EncounterJournal",
 					["scale"] = 1.105737838745117,
+					["name"] = "EncounterJournal",
 					["pos"] = {
 						"BOTTOMLEFT", -- [1]
 						"UIParent", -- [2]

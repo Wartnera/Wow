@@ -199,7 +199,11 @@ TidyPlatesHubCache = {
 		["WidgetAuraTrackDispelFriendly"] = false,
 		["ScaleIgnoreNeutralUnits"] = true,
 		["FriendlyAlphaSpotlightMode"] = "None",
-		["ScaleIgnoreInactive"] = false,
+		["ColorFriendlyPlayer"] = {
+			["r"] = 0,
+			["g"] = 0,
+			["b"] = 1,
+		},
 		["ColorUnIntSpellsCastAtPlayer"] = {
 			["r"] = 0.7647058823529411,
 			["g"] = 0.3529411764705883,
@@ -227,11 +231,7 @@ TidyPlatesHubCache = {
 			["g"] = 1,
 			["b"] = 0,
 		},
-		["ColorFriendlyPlayer"] = {
-			["r"] = 0,
-			["g"] = 0,
-			["b"] = 1,
-		},
+		["ScaleIgnoreInactive"] = false,
 		["WidgetEliteIndicator"] = true,
 		["ColorThreatSafe"] = {
 			["r"] = 0.05882352941176471,

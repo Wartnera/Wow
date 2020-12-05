@@ -5,14 +5,17 @@ SkadaDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Wartsham - Nazjatar"] = "Default",
 		["Wartschus - Frostwolf"] = "Default",
 		["Wartsham - Frostwolf"] = "Default",
 		["Wart - Frostwolf"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["icon"] = {
-				["minimapPos"] = 199.817128289345,
+			["modeclicks"] = {
+				["Dégâts infligés"] = 2,
+				["DPS"] = 1,
+				["Damage"] = 2,
 			},
 			["windows"] = {
 				{
@@ -27,16 +30,14 @@ SkadaDB = {
 					["x"] = -35.5557861328125,
 				}, -- [1]
 			},
+			["icon"] = {
+				["minimapPos"] = 199.817128289345,
+			},
 			["versions"] = {
 				["1.6.7"] = true,
 				["1.8.0"] = true,
 				["1.6.4"] = true,
 				["1.6.3"] = true,
-			},
-			["modeclicks"] = {
-				["Dégâts infligés"] = 1,
-				["DPS"] = 1,
-				["Damage"] = 1,
 			},
 		},
 	},

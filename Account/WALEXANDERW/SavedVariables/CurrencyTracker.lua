@@ -4,4 +4,6 @@ CurrencyTrackerDB = {
 		["Wart"] = {
 		},
 	},
+	["Nazjatar"] = {
+	},
 }

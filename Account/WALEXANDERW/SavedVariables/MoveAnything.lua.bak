@@ -85,11 +85,11 @@ MADB = {
 				},
 				["CharacterFrame"] = {
 					["orgPos"] = {
-						"CENTER", -- [1]
+						"TOPLEFT", -- [1]
 						"UIParent", -- [2]
-						"CENTER", -- [3]
-						-245.9999847412109, -- [4]
-						79, -- [5]
+						"TOPLEFT", -- [3]
+						315, -- [4]
+						-94, -- [5]
 					},
 					["name"] = "CharacterFrame",
 					["UIPanelWindows"] = {
@@ -148,21 +148,14 @@ MADB = {
 						447.9999389648438, -- [5]
 					},
 				},
-				["ObjectiveTrackerBonusBannerFrame"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						"TOP", -- [3]
-						0, -- [4]
-						-170, -- [5]
-					},
-					["name"] = "ObjectiveTrackerBonusBannerFrame",
+				["MacroFrame"] = {
+					["name"] = "MacroFrame",
 					["pos"] = {
-						"TOP", -- [1]
+						"BOTTOMLEFT", -- [1]
 						"UIParent", -- [2]
-						"TOP", -- [3]
-						-9.1552734375e-05, -- [4]
-						-169.999755859375, -- [5]
+						"BOTTOMLEFT", -- [3]
+						865.7777709960938, -- [4]
+						418.22216796875, -- [5]
 					},
 				},
 				["QuestFrame"] = {
@@ -170,8 +163,8 @@ MADB = {
 						"TOP", -- [1]
 						"UIParent", -- [2]
 						"TOP", -- [3]
-						-315, -- [4]
-						-88.99999237060547, -- [5]
+						-277, -- [4]
+						-81.99999237060547, -- [5]
 					},
 					["name"] = "QuestFrame",
 					["UIPanelWindows"] = {
@@ -189,22 +182,8 @@ MADB = {
 					},
 				},
 				["EncounterJournal"] = {
-					["orgPos"] = {
-						"CENTER", -- [1]
-						"UIParent", -- [2]
-						"CENTER", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
-					["name"] = "EncounterJournal",
-					["UIPanelWindows"] = {
-						["whileDead"] = 1,
-						["width"] = 830,
-						["pushable"] = 0,
-						["area"] = "left",
-					},
 					["scale"] = 1.105737838745117,
-					["orgScale"] = 1,
+					["name"] = "EncounterJournal",
 					["pos"] = {
 						"BOTTOMLEFT", -- [1]
 						"UIParent", -- [2]
@@ -232,27 +211,21 @@ MADB = {
 						-82.05131334454916, -- [5]
 					},
 				},
-				["MacroFrame"] = {
-					["UIPanelWindows"] = {
-						["whileDead"] = 1,
-						["width"] = 338,
-						["pushable"] = 1,
-						["area"] = "left",
-					},
+				["ObjectiveTrackerBonusBannerFrame"] = {
 					["orgPos"] = {
-						"TOPLEFT", -- [1]
+						"TOP", -- [1]
 						"UIParent", -- [2]
-						"TOPLEFT", -- [3]
-						15.99999904632568, -- [4]
-						-116, -- [5]
+						"TOP", -- [3]
+						0, -- [4]
+						-170, -- [5]
 					},
-					["name"] = "MacroFrame",
+					["name"] = "ObjectiveTrackerBonusBannerFrame",
 					["pos"] = {
-						"BOTTOMLEFT", -- [1]
+						"TOP", -- [1]
 						"UIParent", -- [2]
-						"BOTTOMLEFT", -- [3]
-						865.7777709960938, -- [4]
-						418.22216796875, -- [5]
+						"TOP", -- [3]
+						-9.1552734375e-05, -- [4]
+						-169.999755859375, -- [5]
 					},
 				},
 			},

@@ -1,18 +1,18 @@
-VER 3 0100000000000004 "ch/cl" "INV_MISC_QUESTIONMARK"
-#showtooltip Chain Lightning
-/cast [@mouseover,exists,help,nodead] [help,nodead] Chain Heal; [harm, nodead] Chain Lightning; [@player] Chain Heal
-END
 VER 3 0100000000000002 "ch/cl" "INV_MISC_QUESTIONMARK"
 #showtooltip 
 /cast [@mouseover,exists,help,nodead] [help,nodead] Salve de guérison; [harm, nodead] Chaîne d’éclairs; [@player] Salve de guérison
 END
-VER 3 0100000000000005 "lb/hw" "INV_MISC_QUESTIONMARK"
-#showtooltip Lightning Bolt
-/cast [@mouseover,exists,help,nodead] [help,nodead] Healing Surge; [harm, nodead] Lightning Bolt; [@player] Healing Surge
+VER 3 0100000000000004 "ch/cl" "INV_MISC_QUESTIONMARK"
+#showtooltip Chain Lightning
+/cast [@mouseover,exists,help,nodead] [help,nodead] Chain Heal; [harm, nodead] Chain Lightning; [@player] Chain Heal
 END
 VER 3 0100000000000001 "lb/hw" "INV_MISC_QUESTIONMARK"
 #showtooltip Éclair
 /cast [@mouseover,exists,help,nodead] [help,nodead] Afflux de soins; [harm, nodead] Éclair; [@player] Afflux de soins
+END
+VER 3 0100000000000005 "lb/hw" "INV_MISC_QUESTIONMARK"
+#showtooltip Lightning Bolt
+/cast [@mouseover,exists,help,nodead] [help,nodead] Healing Surge; [harm, nodead] Lightning Bolt; [@player] Healing Surge
 END
 VER 3 0100000000000003 "s/hw" "INV_MISC_QUESTIONMARK"
 #showtooltip Frappe-tempête

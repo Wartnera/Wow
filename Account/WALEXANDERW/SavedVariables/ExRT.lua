@@ -44,6 +44,7 @@ VExRT = {
 		["Strata"] = "HIGH",
 	},
 	["ProfileKeys"] = {
+		["Wartsham-Nazjatar"] = "default",
 		["Wartsham-Frostwolf"] = "default",
 		["Wart-Frostwolf"] = "default",
 		["Wartschus-Frostwolf"] = "default",
@@ -77,8 +78,14 @@ VExRT = {
 	},
 	["ExCD2"] = {
 		["gnGUIDs"] = {
-			["Wart"] = 265,
+			["Feyrax-Blackrock"] = 254,
+			["Equivalent-Aegwynn"] = 267,
+			["Arthrass-Drak'thul"] = 70,
 			["Wartsham"] = 262,
+			["Feartard"] = 258,
+			["Wart"] = 265,
+			["Gammelock-Malfurion"] = 265,
+			["Стегмата-Гром"] = 267,
 		},
 		["NoRaid"] = true,
 		["CDECol"] = {
@@ -299,11 +306,11 @@ VExRT = {
 	},
 	["Addon"] = {
 		["Version"] = 4390,
-		["Scale"] = 1,
 		["PreVersion"] = 4390,
+		["IconMiniMapLeft"] = 73.64737170856912,
 		["Timer"] = 0.1,
 		["IconMiniMapTop"] = 72.203344386693,
-		["IconMiniMapLeft"] = 73.64737170856912,
+		["Scale"] = 1,
 	},
 	["RaidCheck"] = {
 		["ReadyCheckFrameOnlyRL"] = true,
@@ -312,21 +319,17 @@ VExRT = {
 		["ReadyCheckFrameTimerFade"] = 4,
 		["FlaskExp"] = 1,
 	},
-	["Profiles"] = {
-	},
 	["LootHistory"] = {
 		["instanceNames"] = {
+			[2222] = "The Shadowlands",
 		},
 		["bossNames"] = {
 		},
 		["list"] = {
-		},
-	},
-	["Profile"] = "default",
-	["LootLink"] = {
-	},
-	["RaidGroups"] = {
-		["profiles"] = {
+			"1606769383#0#2222#0#Wartsham#7#1#item:179982::::::::50:262::::1:28:1318:::", -- [1]
+			"1606856614#0#2222#0#Wartsham#7#2#item:183126::::::::52:262:::::::", -- [2]
+			"1606857946#0#2222#0#Wartsham#7#1#item:171833::::::::52:262:::::::", -- [3]
+			"1607027847#0#2222#0#Wartsham#7#1#item:182561::::::::53:262::11:2:6706:6652:2:28:1324:9:53:::", -- [4]
 		},
 	},
 	["BossWatcher"] = {
@@ -336,6 +339,15 @@ VExRT = {
 		["optionsHealingGraph"] = true,
 		["trackingDamageSpells"] = {
 		},
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["RaidGroups"] = {
+		["profiles"] = {
+		},
+	},
+	["Profiles"] = {
 	},
 	["Logging"] = {
 	},

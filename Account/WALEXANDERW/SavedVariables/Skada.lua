@@ -5,6 +5,7 @@ SkadaDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Wartsham - Nazjatar"] = "Default",
 		["Wartschus - Frostwolf"] = "Default",
 		["Wartsham - Frostwolf"] = "Default",
 		["Wart - Frostwolf"] = "Default",
@@ -12,9 +13,9 @@ SkadaDB = {
 	["profiles"] = {
 		["Default"] = {
 			["modeclicks"] = {
-				["Damage"] = 1,
+				["Damage"] = 2,
 				["DPS"] = 1,
-				["Dégâts infligés"] = 1,
+				["Dégâts infligés"] = 2,
 			},
 			["windows"] = {
 				{

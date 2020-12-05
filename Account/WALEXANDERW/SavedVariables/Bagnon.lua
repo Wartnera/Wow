@@ -68,6 +68,7 @@ Bagnon_Sets = {
 			["x"] = -50,
 		},
 		["vault"] = {
+			["y"] = 249,
 			["rules"] = {
 				"all", -- [1]
 				"all/normal", -- [2]
@@ -90,14 +91,16 @@ Bagnon_Sets = {
 				"quest", -- [19]
 				"misc", -- [20]
 			},
+			["point"] = "BOTTOMLEFT",
 			["hiddenBags"] = {
 			},
 			["color"] = {
 			},
-			["hiddenRules"] = {
-			},
 			["borderColor"] = {
 			},
+			["hiddenRules"] = {
+			},
+			["x"] = 95.00000762939453,
 		},
 		["guild"] = {
 			["rules"] = {
@@ -132,6 +135,7 @@ Bagnon_Sets = {
 			},
 		},
 		["bank"] = {
+			["y"] = -391.4999389648438,
 			["rules"] = {
 				"all", -- [1]
 				"all/normal", -- [2]
@@ -154,10 +158,12 @@ Bagnon_Sets = {
 				"quest", -- [19]
 				"misc", -- [20]
 			},
+			["point"] = "TOPLEFT",
 			["hiddenBags"] = {
 			},
 			["color"] = {
 			},
+			["x"] = 95.00000762939453,
 			["hiddenRules"] = {
 			},
 			["borderColor"] = {

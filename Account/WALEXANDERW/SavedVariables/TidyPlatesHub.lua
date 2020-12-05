@@ -209,13 +209,13 @@ TidyPlatesHubCache = {
 		["EnemyBarColorMode"] = "ByThreat",
 		["ScaleStandard"] = 1,
 		["WidgetAuraTrackDispelFriendly"] = false,
+		["ScaleIgnoreInactive"] = false,
+		["FriendlyAlphaSpotlightMode"] = "None",
 		["ColorFriendlyPlayer"] = {
 			["b"] = 1,
 			["g"] = 0,
 			["r"] = 0,
 		},
-		["FriendlyAlphaSpotlightMode"] = "None",
-		["ScaleIgnoreInactive"] = false,
 		["ColorNeutral"] = {
 			["b"] = 0,
 			["g"] = 1,
